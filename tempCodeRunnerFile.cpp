@@ -1,0 +1,1 @@
+cout<<"isSafe is ok"<<endl;
